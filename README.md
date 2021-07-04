@@ -15,7 +15,7 @@ const yashmita = {
   pronouns: "she" | "her",
   code: ["C/CPP", "JAVA"],
   askMeAbout: ["DS Algo", "Frontend Web Development"],
-  technologies: {
+  webDevelopment: {
       frontend: ["HTML", "CSS", "BootStrap", "JavaScript", "React"],
       backend: ["Node", "Express"],
   },
