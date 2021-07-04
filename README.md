@@ -1,10 +1,10 @@
 <h2> Hi, I'm Yashmita! <img src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" width="40"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>I'm a pre-final year student pursuing B.Tech CSE from IGDTUW, Delhi. <br> Coding and Web Development are the two things that I'm passionate about! <br>
-  I always look forward to contirbuting in projects through which I can hone my skills as well as create a positive impact. I'm forever ready to learn something new!  <img src="https://media.giphy.com/media/l1J9wQIaj0He3bTSU/giphy.gif" width="40"> 
+  I always look forward to contirbuting in projects through which I can hone my skills as well as create a positive impact.<br> I'm forever ready to learn something new!  <img src="https://media.giphy.com/media/l1J9wQIaj0He3bTSU/giphy.gif" width="30"> 
 </em></p>
 
-<h3>Connect with me:</h3><br>
+<p><b>Connect with me:</b></p><br>
 [![Linkedin: yashmita-balotiya](https://img.shields.io/badge/-yashmita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yashmita-balotiya/)](https://www.linkedin.com/in/yashmita-balotiya/)
 [![GitHub Yashmita](https://img.shields.io/github/followers/yashmita?label=follow&style=social)](https://github.com/yashmita)
 
