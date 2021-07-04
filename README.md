@@ -16,8 +16,8 @@ const yashmita = {
   code: ["C/CPP", "JAVA"],
   askMeAbout: ["DS Algo", "Frontend Web Development"],
   technologies: {
+      frontend: ["HTML", "CSS", "BootStrap", "JavaScript", "React"],
       backend: ["Node", "Express"],
-      frontend: ["HTML", "CSS", "BootStrap", "JavaScript", "React"]
   },
  current: "I am working on react-based projects and learning Node.js",
  funFact: "During my leisure time, I love to explore Korean culture."
